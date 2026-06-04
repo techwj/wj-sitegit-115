@@ -1,0 +1,59 @@
+{
+  "siteId": "bathroom-storage-toiletries-cleaning",
+  "generatedAt": "2026-06-04T11:34:56.609980",
+  "categories": [
+    "beginner-bathroom-storage-toiletries-cleaning",
+    "advanced-bathroom-storage-toiletries-cleaning",
+    "tips-bathroom-storage-toiletries-cleaning",
+    "history-bathroom-storage-toiletries-cleaning",
+    "trending-bathroom-storage-toiletries-cleaning",
+    "tutorials-bathroom-storage-toiletries-cleaning"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-bathroom-storage-toiletries-cleaning",
+      "category_name": "Beginner Bathroom Storage Toiletries Cleaning"
+    },
+    {
+      "category_slug": "advanced-bathroom-storage-toiletries-cleaning",
+      "category_name": "Advanced Bathroom Storage Toiletries Cleaning"
+    },
+    {
+      "category_slug": "tips-bathroom-storage-toiletries-cleaning",
+      "category_name": "Bathroom Storage Toiletries Cleaning Tips"
+    },
+    {
+      "category_slug": "history-bathroom-storage-toiletries-cleaning",
+      "category_name": "Bathroom Storage Toiletries Cleaning History"
+    },
+    {
+      "category_slug": "trending-bathroom-storage-toiletries-cleaning",
+      "category_name": "Trending Bathroom Storage Toiletries Cleaning"
+    },
+    {
+      "category_slug": "tutorials-bathroom-storage-toiletries-cleaning",
+      "category_name": "Bathroom Storage Toiletries Cleaning Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "bathroom-storage-toiletries-cleaning",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Bathroom Storage Toiletries Cleaning Central",
+    "articles_per_row": 2
+  }
+}
